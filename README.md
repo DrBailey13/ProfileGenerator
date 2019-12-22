@@ -1,7 +1,5 @@
 # ProfileGenerator
 
-## DayPlanner
-
 ## Installation
 No installation process required.
 

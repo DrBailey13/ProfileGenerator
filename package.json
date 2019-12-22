@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/DrBailey13/ProfileGenerator/issues"
   },
-  "homepage": "https://github.com/DrBailey13/ProfileGenerator#readme"
+  "homepage": "https://github.com/DrBailey13/ProfileGenerator#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.1"
+  },
+  "devDependencies": {}
 }

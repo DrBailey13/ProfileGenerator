@@ -42,7 +42,7 @@ inquirer
                 const completedHtml = generateHtml(response.data, data.colors)
 
 
-                fs.writeFile('./newPage.html', completedHtml, function (err) {
+                fs.writeFile('./index.html', completedHtml, function (err) {
                     if (err) {
                         console.log(err);
                     }

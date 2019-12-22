@@ -8,6 +8,9 @@ To help developers with create a git hub profile page
 
 
 ## Links
+https://github.com/DrBailey13/ProfileGenerator
+
+assets/index.pdf
 
 
 
